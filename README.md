@@ -1,4 +1,4 @@
-# Mini Project: Smart Dashboard Application - Client
+# Project: Smart Dashboard Application - Client
 
 ### Functions:
 
